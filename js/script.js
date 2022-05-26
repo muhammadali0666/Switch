@@ -19,17 +19,17 @@ elForm.addEventListener('submit', function(evt){
       elResult.textContent = "chorshanba"
     break;
     case 4:
-      elResult.textContent = "dushanba"
+      elResult.textContent = "payshanba"
 
     break;
     case 5:
-      elResult.textContent = "dushanba"
+      elResult.textContent = "juma"
     break;
     case 6:
-      elResult.textContent = "dushanba"
+      elResult.textContent = "shanba"
     break;
     case 7:
-      elResult.textContent = "dushanba"
+      elResult.textContent = "yakshanba"
     break;
     default: 
     elResult.textContent = "bunday kun yo'q"
